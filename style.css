@@ -82,6 +82,7 @@ body{
 .mid1{
     text-align: center;
     position: relative;
+    font-size: x-large;
 }
 .row{
     display: flex;
