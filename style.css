@@ -1,0 +1,79 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    display: flex;
+    
+   position: sticky;
+   top:0;
+}
+.navbar ul{
+    display:flex;
+    list-style: none;
+    justify-content: right;
+    /* margin: 4vw 0px; */
+    /* margin:4vw 0px;
+    background-size: 100px 100px; */
+}
+.navbar ul li{
+    margin-bottom: 1vw;
+    margin-top: 0.5vw;
+}
+.home{
+    background-color: #F9CAC2;
+    position: relative;
+    display: flex;
+}
+.btn{
+    /* margin: 5% 3% 5% 0%; */
+    background-color: black;
+    color: white;
+}
+
+.gift{
+    width: 37vw;
+    height: 30vw;
+  
+     /* float: right;  */
+    /* padding-right: 50%; */
+}
+.mid1{
+    text-align: center;
+    position: relative;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    
+}
+.leftbox{
+    padding: 3%;
+    padding-right: 3%;
+
+}
+#middlebox{
+    padding: 3%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.rightbox{
+    padding: 3%;
+}
+
+.flex-box {
+  display: flex;
+  justify-content: center;
+  
+ 
+}
+
+.flex-box > div {
+  /* background-color: #f1f1f1; */
+  /* margin: 10px; */
+  padding: 50px;
+  /* font-size: 30px; 
+  width: 200px;
+ height: 200px; */
+
+  
+}
