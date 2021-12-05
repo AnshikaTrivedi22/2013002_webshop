@@ -77,3 +77,15 @@ body{
 
   
 }
+.planet{
+    background-color: #EAFAFA;
+    /* position: relative; */
+    display: flex;
+}
+.planet-earth{
+    width: 37vw;
+    height: 30vw;
+}
+.alien{
+    padding: 10px;
+}
