@@ -228,7 +228,9 @@ body{
   #testimonials{
     text-align: center;
     background-color: #FBFFD4;
-    color: black;}
+    color: black;
+  margin: 5%
+  ;}
     
     .testimonial-image{width: 20%;
     border-radius: 100%;
@@ -246,12 +248,7 @@ body{
         background-color: #F9CAC2;
         padding: 5%;
     }
-    /* .huu{
-      justify-content: right;
-/*   
-    align-items: top; */
-    /* display: flex; */
-    /* } */ 
+    
     .why{
       float: right;
     }
