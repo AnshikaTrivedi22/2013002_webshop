@@ -153,19 +153,8 @@ body{
         padding: 5%;
     }
     
-    /* .why{
-      float: right;
-    } */
    .do{
      float:inline-start;
    }
-   hr{
-     border-style:none;
-     border-top: dotted;
-     border-width: 10px;
-     border-color: black;
-     width: 3%;
-     padding-bottom: 20px;
-   }
-
+   
   
